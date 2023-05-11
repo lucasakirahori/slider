@@ -34,9 +34,6 @@ function proximoSlide(){
 }
 
 
-
-
-
 prevBtn.addEventListener('click', voltarSlide);
 
 nextBtn.addEventListener('click', proximoSlide);
